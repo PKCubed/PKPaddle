@@ -1,2 +1,2 @@
 # PKPaddle
-An electronic morse code paddle
+An electronic morse code paddle using an ESP32
